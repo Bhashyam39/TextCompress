@@ -1,0 +1,8 @@
+numpy
+pandas
+cloudpickle
+transformers
+tensorflow
+spacy
+unidecode
+tf-keras
